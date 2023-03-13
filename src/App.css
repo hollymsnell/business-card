@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+  padding: 5px, 5px;
+  width:100%;
+}
+
+.fa {
+padding: 10px;
+font-size: 25px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+
+h1, h4, footer {
+  text-align: center
+}
+footer {
+  border-style: hidden;
+  width: 100%;
+}
+
+.container {
+width: 275px;
+margin:auto;
+border:2px solid #ffffff;
+padding: 10px
+}
+
+.profile-photo {
+  object-fit: cover;
+}
