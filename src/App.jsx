@@ -10,7 +10,7 @@ function App() {
       <h4>Full-Stack Developer</h4>
       <h3>About</h3>
       <small>
-        Background in healthcare and human wellness. 2022 Bootcamp grad looking to become a software engineer.
+        Background in healthcare and human wellness. 2022 Bootcamp grad excited to work as a software engineer.
       </small>
       <h3>Interests</h3>
       <small>
